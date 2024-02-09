@@ -29,3 +29,6 @@
 - name: Inverse Problems
   sub: IP
   color: "#41d75f"
+- name: Acoustics
+  sub: AC
+  color: "#f5a214"
