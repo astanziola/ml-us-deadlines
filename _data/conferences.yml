@@ -243,20 +243,6 @@
   sub: ML
   note: Mandatory abstract deadline on Aug 08, 2023, and supplementary material deadline on Aug 18, 2023. More info <a href='https://aaai.org/aaai-conference/'>here</a>.
 
-- title: IJCNLP-AACL
-  year: 2023
-  id: aacl23
-  link: http://www.ijcnlp-aacl2023.org/
-  deadline: '2023-05-23 23:59:00'
-  timezone: UTC-12
-  place: Bali, Indonesia
-  date: November 1-4, 2022
-  start: 2023-11-01
-  end: 2023-11-04
-  hindex: 37
-  sub: NLP
-  note: ARR commitment deadline is <b>August 15</b>, 2023. More info <a href='http://www.ijcnlp-aacl2023.org/'>here</a>.
-
 - title: RecSys
   year: 2023
   id: recsys23
@@ -296,31 +282,6 @@
   sub: DM
   note: Mandatory abstract deadline on June 26, 2023. More info <a href='http://www.sigir-ap.org/sigir-ap-2023/call-for-papers/'>here</a>.
 
-- title: EMNLP
-  year: 2023
-  id: emnlp23
-  link: https://2023.emnlp.org/
-  deadline: '2023-06-23 23:59:00'
-  abstract_deadline: '2023-06-16 23:59:00'
-  timezone: UTC-12
-  place: Singapore
-  date: December 6-10, 2023
-  start: 2023-12-06
-  end: 2023-12-10
-  sub: NLP
-  note: Hybrid format with ARR and START. More info <a href='https://2023.emnlp.org/calls/papers/Overview'>here</a>.
-
-- title: '*SEM'
-  year: 2023
-  id: starsem23  # title as lower case + last two digits of year
-  full_name: '*SEM 2023'  # full conference name
-  link: https://sites.google.com/view/starsem2023
-  deadline: 2023-03-24 23:59
-  timezone: UTC-12
-  place: Toronto, Canada
-  date: July, 13-14, 2023
-  sub: NLP
-  note: Co-located with ACL 2023
 
 - title: SIGGRAPH Asia
   year: 2023
@@ -487,36 +448,6 @@
   sub: AP
   note: Mandatory abstract deadline on November 25, 2022. More info <a href='https://icaps23.icaps-conference.org/'>here</a>.
 
-- title: ACL
-  year: 2023
-  id: acl23
-  link: https://2023.aclweb.org/
-  deadline: '2023-01-20 23:59:00'
-  abstract_deadline: '2023-01-13 23:59:00'
-  timezone: UTC-12
-  place: Toronto, Canada
-  date: July 9-14, 2023
-  start: 2023-07-09
-  end: 2023-07-14
-  hindex: 169
-  sub: NLP
-  note: Hybrid format with ARR and START. Above deadlines are for START while abstract deadline is 13 January 2023. Submission to ARR should before 15 December 2022. More info <a href="https://2023.aclweb.org/calls/main_conference/">here</a>.
-
-- title: EACL
-  year: 2023
-  id: eacl23
-  link: https://2023.eacl.org/
-  deadline: '2022-10-20 23:59:00'
-  abstract_deadline: '2022-10-13 23:59:00'
-  timezone: UTC-12
-  place: Hybrid (Dubrovnik, Croatia)
-  date: May 02-06, 2023
-  start: 2023-05-02
-  end: 2023-05-06
-  hindex: 62
-  sub: NLP
-  note: Hybrid format with ARR and START. Above deadlines are for START. More info <a href="https://2023.eacl.org/calls/papers/">here</a>.
-
 - title: PAKDD
   year: 2023
   id: pakdd23
@@ -682,19 +613,6 @@
   end: 2021-11-11
   sub: RO
 
-- title: AKBC
-  year: 2021
-  id: akbc21
-  link: https://www.akbc.ws/2021/
-  deadline: '2021-06-21 23:59:59'
-  timezone: UTC-12
-  place: Irvine, United States
-  date: October 4-7, 2021
-  start: 2021-10-04
-  end: 2021-10-07
-  paperslink: https://openreview.net/group?id=AKBC.ws/2021/Conference#all-submissions
-  sub: NLP
-
 - title: BMVC
   year: 2023
   id: bmvc23
@@ -819,19 +737,6 @@
   hindex: 70
   sub: DM
   note: Mandatory abstract deadline on October 6, 2022
-
-- title: ACL
-  year: 2022
-  id: acl22
-  link: https://2022.aclweb.org/
-  deadline: '2021-11-15 23:59:59'
-  timezone: UTC-12
-  place: Dublin, Ireland
-  date: May 22-27, 2022
-  start: 2022-05-22
-  end: 2022-05-27
-  hindex: 157
-  sub: NLP
 
 - title: CVPR
   year: 2023
@@ -1114,17 +1019,3 @@
   end: 2023-10-25
   sub: KR
   note: Check the conference website for workshop and demo deadlines
-
-- title: AI World Barcelona
-  year: 2023
-  id: aiworldbarcelona23  # title as lower case + last two digits of year
-  full_name: AI World Barcelona - Generative AI Conference # full conference name
-  link: https://ai-world-barcelona.com
-  deadline: '2023-06-07 23:59:59'
-  timezone: GMT+2
-  place: Barcelona, Spain
-  date: September, 7-8, 2023
-  start: 2023-09-07
-  end: 2023-09-08
-  sub: NLP
-  note: Explore cutting-edge AI topics like ChatGPT, AutoGPT, DALL-E, Midjourney and more at AI World Barcelona — the world's largest generative AI conference.
